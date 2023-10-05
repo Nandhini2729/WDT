@@ -1,0 +1,19 @@
+<?xml version = "1.0"?>
+<books>
+	<book1>
+	 	<title>Artificial Intelligence</title>
+		<author>rich and knight</author>
+		<ISBN>200643</ISBN>
+		<publisher>pearson</publisher>
+		<edition>6th</edition>
+		<price>500</price>
+	</book1>
+	<book2>
+		<title>computer networks</title>
+		<author>kranthik</author>
+		<ISBN>20802</ISBN>
+		<publisher>oxford</publisher>
+		<edition>4th</edition>
+		<price>250</price>
+        </book2>
+</books>
